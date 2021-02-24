@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-setup(name='PyWaves',
+setup(name='bitpanda-PyWaves',
       version='0.9.0',
       description='Object-oriented library for the Waves blockchain platform',
       url='http://github.com/pywaves/pywaves',
