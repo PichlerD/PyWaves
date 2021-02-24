@@ -8,6 +8,7 @@ setup(name='PyWaves',
       author_email='dev@pywaves.org',
       license='MIT',
       packages=find_packages(),
+      include_package_data=True,
       keywords = ['waves', 'blockchain', 'analytics'],
       install_requires=[
             'base58',
