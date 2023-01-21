@@ -38,7 +38,7 @@ from .contract import *
 from .oracle import *
 from .ParallelPyWaves import *
 
-OFFLINE = False
+OFFLINE = True
 NODE = 'https://nodes.wavesnodes.com'
 
 ADDRESS_VERSION = 1
